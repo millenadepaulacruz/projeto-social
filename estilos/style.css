@@ -54,39 +54,7 @@ section#social-media img{
 section#social-media img:hover{
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
-    transition: transform 0.5s;
+    transition: transform 0.4s;
 }
 
 
-/* 
-
-div#links{
-    position: relative;
-    left: 80%;
-}
-
-a>img{
-    width: 50px;
-    border-radius: 50px;
-}
-
-div{
-    width: 375px;
-    height: 800px;
-    background: rgba(168, 79, 79, 0) url("images/frame-iphone.png") center center no-repeat fixed;
-    background-size: 20%;
-    position: absolute;
-    left: 40%;
-    top: 5%;
-}
-
-iframe{
-    background-color: rgba(139, 80, 80, 0);
-    width: 331px;
-    height: 718px;
-    position: relative;
-    left: 6%;
-    top: 7.1%;
-    border-radius: 39px;
-}
-*/
