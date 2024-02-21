@@ -33,10 +33,10 @@ section#phone{
 
 iframe#screen{
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 267px;
-    height: 471px;
+    top: 79px;
+    left: 21px;
+    width: 269px;
+    height: 473px;
 }
 
 section#social-media{
@@ -47,7 +47,7 @@ section#social-media img{
     width: 50px;
     margin: 10px;
     border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.377);    
+    box-shadow: 2px 2px 5px rgba(61, 25, 25, 0.377);    
     box-sizing: border-box;
 }
 
